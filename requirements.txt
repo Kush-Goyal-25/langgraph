@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-google-genai
+python-dotenv
+langchain-core
+langchain-mistralai
+langchain-google-firestore
+chromadb
+langchain-chroma
+langchainhub
