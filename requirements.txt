@@ -8,3 +8,4 @@ langchain-google-firestore
 chromadb
 langchain-chroma
 langchainhub
+aider-chat

@@ -3,3 +3,6 @@ uv.lock
 .venv
 pyproject.toml
 README.md
+.aider*
+.env
+.env
