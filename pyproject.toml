@@ -29,4 +29,5 @@ dependencies = [
     "pygments==2.19.1",
     "pyparsing==3.2.1",
     "python-dotenv>=1.0.1",
+    "schema>=0.7.7",
 ]

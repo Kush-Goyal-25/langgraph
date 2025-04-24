@@ -1437,6 +1437,7 @@ dependencies = [
     { name = "pygments" },
     { name = "pyparsing" },
     { name = "python-dotenv" },
+    { name = "schema" },
 ]
 
 [package.metadata]
@@ -1465,6 +1466,7 @@ requires-dist = [
     { name = "pygments", specifier = "==2.19.1" },
     { name = "pyparsing", specifier = "==3.2.1" },
     { name = "python-dotenv", specifier = ">=1.0.1" },
+    { name = "schema", specifier = ">=0.7.7" },
 ]
 
 [[package]]
@@ -2634,6 +2636,15 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/aa/65/7d973b89c4d2351d7fb232c2e452547ddfa243e93131e7cfa766da627b52/rsa-4.9.tar.gz", hash = "sha256:e38464a49c6c85d7f1351b0126661487a7e0a14a50f1675ec50eb34d4f20ef21", size = 29711 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/49/97/fa78e3d2f65c02c8e1268b9aba606569fe97f6c8f7c2d74394553347c145/rsa-4.9-py3-none-any.whl", hash = "sha256:90260d9058e514786967344d0ef75fa8727eed8a7d2e43ce9f4bcf1b536174f7", size = 34315 },
+]
+
+[[package]]
+name = "schema"
+version = "0.7.7"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/d4/01/0ea2e66bad2f13271e93b729c653747614784d3ebde219679e41ccdceecd/schema-0.7.7.tar.gz", hash = "sha256:7da553abd2958a19dc2547c388cde53398b39196175a9be59ea1caf5ab0a1807", size = 44245 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ad/1b/81855a88c6db2b114d5b2e9f96339190d5ee4d1b981d217fa32127bb00e0/schema-0.7.7-py2.py3-none-any.whl", hash = "sha256:5d976a5b50f36e74e2157b47097b60002bd4d42e65425fcc9c9befadb4255dde", size = 18632 },
 ]
 
 [[package]]
