@@ -84,5 +84,4 @@ response = first_responder_chain.invoke(
     {"messages": [HumanMessage("AI Agents taking over content creation")]}
 )
 
-# Print the structured response
 print(response)
